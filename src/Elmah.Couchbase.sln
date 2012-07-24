@@ -1,14 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elmah.Couchbase", "Elmah.Couchbase.csproj", "{BAA4BB41-7894-4C7F-98E1-3921FE4FE675}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElmahCouchbaseSample", "..\ElmahCouchbaseSample\ElmahCouchbaseSample.csproj", "{7F2B73D5-6AD3-4727-B47A-B16FEEF7C41D}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5813B801-2877-4F71-BD2E-FBF1856C8137}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\README.md = ..\..\README.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elmah.Couchbase", "Elmah.Couchbase\Elmah.Couchbase.csproj", "{BAA4BB41-7894-4C7F-98E1-3921FE4FE675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElmahCouchbaseSample", "ElmahCouchbaseSample\ElmahCouchbaseSample.csproj", "{7F2B73D5-6AD3-4727-B47A-B16FEEF7C41D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
